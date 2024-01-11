@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate
-<!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about ...
 - 📫 How to reach me: anikets101@gmail.com
-<!--- 😄 Pronouns: ...-->
 - ⚡ Fun fact: ...
+- <!--- 😄 Pronouns: ...-->
+- <!--- 😄 Pronouns: ...-->
 
 
 ## 🌐 Socials:
