@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Machine Learning
+- 🔭 I’m currently working on Machine Learning Project
 - 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate
 - 💬 Ask me about ...
