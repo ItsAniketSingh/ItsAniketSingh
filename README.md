@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate
 - 💬 Ask me about ...
-- 📫 How to reach me: anikets101@gmail.com
+- 📫 How to reach me : anikets101@gmail.com
 - ⚡ Fun fact: ...
 
  <!--- 😄 Pronouns: ...-->
