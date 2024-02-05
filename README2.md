@@ -1,20 +1,16 @@
 
-<!--
-**ItsAniketSingh/ItsAniketSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aniket Singh
+====================================================================================================================================
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on ML Project
-- 🌱 I’m currently learning ML
-- 👯 I’m looking to collaborate
-- 💬 Ask me about ...
-- 📫 How to reach me : anikets101@gmail.com
-- ⚡ Fun fact: ...
+Student & Freelancer
+--------------------
 
-  
+* 🌍  I'm based in Pithoragarh, U.P. India
+* 🖥️  See my portfolio at [LeetCode](http://leetcode.com/anikets101/)
+* ✉️  You can contact me at [anikets101@gmail.com](mailto:anikets101@gmail.com)
+* 🧠  I'm learning AI / ML
+* ⚡  You are all i Need
 
- <!--- 😄 Pronouns: ...-->
- <!--- 😄 Pronouns: ...-->
 
 
 ## 🌐 Socials:
