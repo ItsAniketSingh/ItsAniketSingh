@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student & Freelancer
 --------------------
 
-* 🌍  I'm based in Pithoragarh, U.K. India
+* 🌍  I'm free Soul, Student, Freelance, Entrepreneur
 * 🖥️  See my portfolio at [LeetCode](http://leetcode.com/anikets101/)
 * ✉️  You can contact me at [anikets101@gmail.com](mailto:anikets101@gmail.com)
 * 🧠  I'm learning AI / ML
